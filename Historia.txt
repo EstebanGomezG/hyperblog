@@ -1,3 +1,7 @@
 Esta es la prueba fundamental de que GIT funciona
 Aún no agredamos ni popó de mierda
 jajajaja
+Ahora sí hablaremos de la vida de Esteban:
+Es filósofo.
+Analista político.
+Y está intentando cambiar de enfoque hacia la ciencia de datos.
